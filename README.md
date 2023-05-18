@@ -7,7 +7,9 @@ Este projeto foi desenvolvido durante estudos sobre front-end. Nele o usuário �
 # 💻Layout 
 
 ## Search
-![Search]()
+![Search](https://github.com/CaduConrado/Weather-App/blob/master/img/Search.jpeg)
+![Search by City](https://github.com/CaduConrado/Weather-App/blob/master/img/Search_SP.jpeg)
+![Search by City](https://github.com/CaduConrado/Weather-App/blob/master/img/Search_NY.jpeg)
 
 # Tecnologias utilizadas
 
