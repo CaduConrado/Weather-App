@@ -3,9 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto foi desenvolvido durante o curso de HTML e CSS do canal **Hora de Codar** do [Matheus Battisti](https://www.youtube.com/@MatheusBattisti).
-
-A aplicação consiste em um site de busca e anúncios de vagas de emprego, semelhante ao LinkeIn. O site foi desenvolvido para web e é totalmente responsivo, tanto para notebooks, tablets e disitivos mobile como celulares. 
+Este projeto foi desenvolvido durante estudos sobre front-end. Nele o usuário é capaz de pesquisar qualquer cidade ou estado afim de saber a temperatura local assim como a velocidade do vento Km/h(quilometros por hora)  e a porcentagem da humidade.
 
 # 💻Layout 
 
