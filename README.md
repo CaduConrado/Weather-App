@@ -1,5 +1,5 @@
 # Clima/Tempo 
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/CaduConrado/Weather-App/blob/master/LICENSE) 
 # Sobre o projeto
 
 Este projeto foi desenvolvido durante estudos sobre front-end. Nele o usuário é capaz de pesquisar qualquer cidade ou estado afim de saber a temperatura local assim como a velocidade do vento Km/h(quilometros por hora)  e a porcentagem da humidade.
